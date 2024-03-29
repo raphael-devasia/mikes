@@ -188,7 +188,7 @@ ul {
   display: grid;
   place-items: center;
   grid-template-columns: 3fr 6fr 3fr;
-  background-image: url(/assets/HERO_BANNER_1920x775_PIZZA_TOP.jpg);
+  background-image: url(HERO_BANNER_1920x775_PIZZA_TOP.jpg);
   min-height: 750px;
   position: relative;
 
@@ -263,13 +263,13 @@ ul {
 }
 
 .offer1 {
-  background-image: url(/assets/offer1.jpg);
+  background-image: url(offer1.jpg);
 }
 .offer2 {
-  background-image: url(/assets/offer2.jpg);
+  background-image: url(offer2.jpg);
 }
 .offer3 {
-  background-image: url(/assets/offer3.jpg);
+  background-image: url(offer3.jpg);
 }
 .offer-btn {
   width: 160px;
@@ -615,5 +615,5 @@ footer {
 }
 
 footer {
-  background-image: url("/assets/miettes (1).png"), url("/assets/footer-bg.jpg");
+  background-image: url("miettes (1).png"), url("footer-bg.jpg");
 }
